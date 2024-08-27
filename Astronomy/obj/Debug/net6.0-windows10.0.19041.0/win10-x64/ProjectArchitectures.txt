@@ -1,0 +1,1 @@
+C:\Users\guiii\mslearn-dotnetmaui-create-multi-page-apps\exercise1\start\Astronomy\Astronomy\Astronomy.csproj;x64
